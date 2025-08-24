@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  flask-app-chart:
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2025-08-24T11:06:29.528364239Z"
+    description: A Flask-app Helm chart for Kubernetes
+    digest: 7ef6af82ab09fc889e9de74118b4a89f2e4298c0b1edc5d87c6309665e68ac07
+    maintainers:
+    - name: Dhruv Patel
+    name: flask-app-chart
+    type: application
+    urls:
+    - https://github.com/Dhruvp-11/flask-pod-usage/releases/download/flask-app-chart-0.0.2/flask-app-chart-0.0.2.tgz
+    version: 0.0.2
+generated: "2025-08-24T11:06:29.528369409Z"
