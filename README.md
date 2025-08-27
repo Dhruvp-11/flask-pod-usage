@@ -6,8 +6,7 @@ Helm chart for flask-pod usage
 This repository contains a sample Helm chart and GitHub Actions workflow to demonstrate how to deploy Helm charts to a Kubernetes cluster using **ArgoCD**, with the chart hosted via **GitHub Pages**.
 
 📘 **Read the full blog post here:**  
-👉 [How to Deploy Helm Charts on Kubernetes Using ArgoCD and GitHub Pages]([(https://dhruv4503.hashnode.dev/github-pages-as-a-helm-chart-repo-deployment-with-argocd]))  
-*(Replace with your actual blog URL)*
+👉 [How to Deploy Helm Charts on Kubernetes Using ArgoCD and GitHub Pages]([(https://dhruv4503.hashnode.dev/github-pages-as-a-helm-chart-repo-deployment-with-argocd)])  
 
 ## 🛠️Tools Used
 
